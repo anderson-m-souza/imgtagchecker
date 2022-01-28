@@ -20,8 +20,8 @@ If the name of your file is `index.html`, the script will create another one, in
 
 ### Requirements
 
-Python 3.10.x
-BeaultifulSoup 4.10.x
+- Python 3.10.x
+- BeaultifulSoup 4.10.x
 
 ### Setup
 
